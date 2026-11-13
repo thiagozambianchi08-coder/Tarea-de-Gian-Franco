@@ -48,8 +48,8 @@ En 5.º año se aprende a **analizar y modelar**; en 7.º año, a **construir y 
 
 ## Autoría
 
-- **Estudiante:** [Nombre y apellido]
-- **Escuela / Especialidad:** [Nombre de la escuela] – [Especialidad]
-- **Materia:** [Materia o espacio curricular]
-- **Docente:** [Nombre del/la docente]
-- **Fecha de entrega:** [día de mes de año]
+- **Estudiante:** Thiago Zambianchi 
+- **Escuela / Especialidad:** EESTN2 – Programacion
+- **Materia:** Modelos y Sistemas
+- **Docente:** Gian Franco
+- **Fecha de entrega:** 13/11/2026
